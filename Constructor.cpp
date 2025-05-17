@@ -15,6 +15,8 @@ class buku
 class peminjam
 {
   private:
+    int totalPinjam;
+
 };
 
 int main()
