@@ -32,7 +32,7 @@ class petugas
     string levelAkses;
   
     public:
-    
+     friend class admin;
 };
 
 int main()
