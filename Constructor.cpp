@@ -18,7 +18,8 @@ class peminjam
     int totalPinjam;
 
   public:
-  
+    string nama;
+    string idPeminjam;
 };
 
 int main()
