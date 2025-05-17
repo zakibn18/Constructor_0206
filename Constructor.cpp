@@ -24,6 +24,11 @@ class peminjam
     friend class petugas;
 };
 
+class petugas
+{
+
+};
+
 int main()
 {
 
