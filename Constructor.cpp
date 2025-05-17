@@ -17,6 +17,8 @@ class peminjam
   private:
     int totalPinjam;
 
+  public:
+  
 };
 
 int main()
