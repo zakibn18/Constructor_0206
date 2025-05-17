@@ -37,7 +37,8 @@ class petugas
 
 class admin
 {
-  
+  private:
+
 };
 
 int main()
