@@ -3,7 +3,8 @@ using namespace std;
 
 class buku
 {
-  
+  public:
+    
 };
 
 int main()
