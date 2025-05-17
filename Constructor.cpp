@@ -14,7 +14,7 @@ class buku
 
 class peminjam
 {
-  
+  private:
 };
 
 int main()
