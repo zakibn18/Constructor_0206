@@ -20,6 +20,8 @@ class peminjam
   public:
     string nama;
     string idPeminjam;
+
+    friend class petugas;
 };
 
 int main()
