@@ -30,6 +30,9 @@ class petugas
     string nama;
     string idPetugas;
     string levelAkses;
+  
+    public:
+    
 };
 
 int main()
