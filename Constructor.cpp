@@ -35,6 +35,11 @@ class petugas
      friend class admin;
 };
 
+class admin
+{
+  
+};
+
 int main()
 {
 
