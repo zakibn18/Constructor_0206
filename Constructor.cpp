@@ -12,6 +12,11 @@ class buku
 
 };
 
+class peminjam
+{
+  
+};
+
 int main()
 {
 
