@@ -8,6 +8,8 @@ class buku
     string penulis;
     bool pinjam;
 
+    friend class petugas;
+
 };
 
 int main()
