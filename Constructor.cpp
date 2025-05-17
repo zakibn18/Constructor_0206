@@ -26,7 +26,10 @@ class peminjam
 
 class petugas
 {
-
+  private:
+    string nama;
+    string idPetugas;
+    string levelAkses;
 };
 
 int main()
